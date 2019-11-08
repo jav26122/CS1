@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1543883214 source:c:\users\jaret\documents\megasync\school\computerscience1-18\assignments\testasdf\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<stdio.h>
+	<string.h>
+

@@ -1,0 +1,36 @@
+Collins Farm, 43900 tomatoes .67
+Bart Smith Farms, 34910 cassavas .99
+Allen Farms, 117 coconuts .54
+River Run Farm, 103 taros .65
+Big Top Farm, 109 artichokes 2.23
+Big Top Farm, 777 crosns .28
+Big Top Farm, 9739 cucumbers .53
+Marble Farm, 108 crosns .33
+Food For Life Inc., 106 carrots .87
+Food For Life Inc., 86 coconuts .84
+Johnson Farms, 121 parsnips .22
+A1 Farm, 111 beets .12
+A1 Farm, 5591 taros .72
+Looney Tunes Farm, 102 onions .49
+Wolfe Creek Farm, 103 rhubarbs 1.21
+Wolfe Creek Farm, 199 radishes .71
+James Farm, 47 pickles .68
+Weaver Farms, 75 walnuts 2.50
+Weaver Farms, 500 pickles .59
+Pore Boy Farms, 670000 peanuts .79
+Rutherford Farms Inc., 809 apples .90
+Rutherford Farms Inc., 659 pickles .70
+Javens Farm, 129000 figs .44
+Harrison Farms, 8001 yams 1.09
+Setzer Farms Inc., 701 potatoes .89
+Setzer Farms Inc., 651 tomatoes .69
+Pikes Peak Farm,  1045 turnips .79
+Holland Area Farms, 10001 radishes .69
+
+
+
+
+
+
+
+

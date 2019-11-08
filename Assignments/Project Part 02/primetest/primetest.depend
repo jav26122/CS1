@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542661530 source:c:\users\jaret\documents\megasync\school\computerscience1-18\assignments\project part 02\primetest\main.cpp
+	<iostream>
+	<math.h>
+	<time.h>
+

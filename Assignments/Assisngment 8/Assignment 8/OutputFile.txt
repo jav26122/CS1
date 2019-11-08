@@ -1,0 +1,8 @@
+Name: George Clooney, Address: 1042 El Camino Real
+Name: Cathy Pearl, Address: 405 A St.
+Name: Paris Hilton, Address: 200 S. Elm St.
+Name: Wendy Jones, Address: 982 Boundary Ave.
+Name: Lester Pull, Address: 7 East Avenue
+Name: Bo Pete, Address: 1 B St.
+Name: Pretty Tired, Address: 100 Oak St.
+Name: Joan Jones, Address: 777 Sunset Strip
