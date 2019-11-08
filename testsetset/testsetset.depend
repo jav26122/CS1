@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544061899 source:c:\users\jaret\documents\megasync\school\computerscience1-18\assignments\testsetset\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+

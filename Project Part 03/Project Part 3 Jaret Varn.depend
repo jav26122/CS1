@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1541192502 source:c:\users\jaret\documents\megasync\school\computerscience1-18\assignments\project part 02\project part 2 jaret varn\main.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<cctype>
+
+1544158964 source:c:\users\jaret\documents\megasync\school\computerscience1-18\assignments\project part 03\main.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<cctype>
+	<limits>
+

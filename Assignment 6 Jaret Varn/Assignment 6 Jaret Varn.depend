@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1540864215 source:c:\users\jaret\documents\megasync\school\computerscience1-18\assignments\assignment 6 jaret varn\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+

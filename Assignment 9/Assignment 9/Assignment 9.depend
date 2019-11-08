@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1543550113 source:c:\users\jaret\documents\megasync\school\computerscience1-18\assignments\assignment 9\assignment 9\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<string.h>
+

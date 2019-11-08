@@ -1,0 +1,236 @@
+02637 3:Midsize Jet 35 JFK-SFO 5hours and 35minutes Medium-haul flight Thu Dec 06 23:54:44 2018
+
+07474 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Fri Dec 07 00:19:14 2018
+
+10968 1:Helicopter 3 CLE-ORD 2hours and 3minutes Short-haul flight Fri Dec 07 00:37:12 2018
+
+17481 1:Helicopter 49 ORD-JFK 4hours and 49minutes Medium-haul flight Fri Dec 07 00:53:23 2018
+
+26171 1:Helicopter 35 DEN-JFK 10hours and 35minutes Long-haul flight Fri Dec 07 00:53:24 2018
+
+30247 3:Midsize Jet 29 DEN-JFK 3hours and 29minutes Medium-haul flight Fri Dec 07 00:53:26 2018
+
+17230 3:Midsize Jet 29 DEN-JFK 3hours and 29minutes Medium-haul flight Fri Dec 07 00:53:27 2018
+
+02695 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Fri Dec 07 00:53:29 2018
+
+30844 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Fri Dec 07 00:53:30 2018
+
+13488 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Fri Dec 07 00:53:31 2018
+
+15118 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Fri Dec 07 00:53:32 2018
+
+14603 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Fri Dec 07 00:55:34 2018
+
+13257 3:Midsize Jet 29 DEN-JFK 3hours and 29minutes Medium-haul flight Fri Dec 07 00:55:36 2018
+
+06978 3:Midsize Jet 29 DEN-JFK 3hours and 29minutes Medium-haul flight Fri Dec 07 00:55:37 2018
+
+30441 3:Midsize Jet 29 DEN-JFK 3hours and 29minutes Medium-haul flight Fri Dec 07 00:55:39 2018
+
+08750 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Fri Dec 07 00:55:40 2018
+
+14828 1:Helicopter 49 ORD-JFK 4hours and 49minutes Medium-haul flight Fri Dec 07 00:56:43 2018
+
+01233 3:Midsize Jet 29 DEN-JFK 3hours and 29minutes Medium-haul flight Fri Dec 07 00:56:44 2018
+
+27190 3:Midsize Jet 29 DEN-JFK 3hours and 29minutes Medium-haul flight Fri Dec 07 00:56:44 2018
+
+19641 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Fri Dec 07 00:56:45 2018
+
+32328 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Fri Dec 07 00:56:46 2018
+
+27332 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Fri Dec 07 00:56:47 2018
+
+15014 1:Helicopter 49 ORD-JFK 4hours and 49minutes Medium-haul flight Fri Dec 07 00:57:40 2018
+
+24068 3:Midsize Jet 29 DEN-JFK 3hours and 29minutes Medium-haul flight Fri Dec 07 00:57:41 2018
+
+29640 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Fri Dec 07 00:57:42 2018
+
+14994 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Fri Dec 07 00:57:43 2018
+
+30435 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Fri Dec 07 00:57:44 2018
+
+16242 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Fri Dec 07 01:03:56 2018
+
+02237 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Fri Dec 07 01:03:57 2018
+
+29128 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Fri Dec 07 01:03:58 2018
+
+18832 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Fri Dec 07 01:03:58 2018
+
+09323 1:Helicopter 51 ORD-JFK 4hours and 51minutes Medium-haul flight Fri Dec 07 01:03:59 2018
+
+23670 3:Midsize Jet 29 DEN-JFK 3hours and 29minutes Medium-haul flight Fri Dec 07 01:04:00 2018
+
+19703 3:Midsize Jet 29 DEN-JFK 3hours and 29minutes Medium-haul flight Fri Dec 07 01:04:01 2018
+
+06716 4:Heavy Jet 2 JFK-SFO 4hours and 2minutes Medium-haul flight Fri Dec 07 01:04:02 2018
+
+23555 4:Heavy Jet 2 JFK-SFO 4hours and 2minutes Medium-haul flight Fri Dec 07 01:04:02 2018
+
+18461 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Fri Dec 07 01:04:03 2018
+
+09459 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Fri Dec 07 01:04:05 2018
+
+10458 1:Helicopter 40 ORD-JFK 4hours and 40minutes Medium-haul flight Sat Dec 08 23:57:36 2018
+
+14318 2:Turbo Prop 35 DEN-JFK 5hours and 35minutes Medium-haul flight Sun Dec 09 00:17:15 2018
+
+09020 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Sun Dec 09 00:17:46 2018
+
+03035 1:Helicopter 51 JFK-SFO 16hours and 51minutes Ultra long-haul flight Sun Dec 09 00:17:52 2018
+
+00578 1:Helicopter 45 DEN-JFK 10hours and 45minutes Long-haul flight Sun Dec 09 18:37:52 2018
+
+01336 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Sun Dec 09 18:41:45 2018
+
+31802 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Sun Dec 09 18:41:46 2018
+
+01574 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Sun Dec 09 18:41:47 2018
+
+02104 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Sun Dec 09 18:41:48 2018
+
+07282 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Sun Dec 09 18:41:49 2018
+
+25254 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Sun Dec 09 18:41:49 2018
+
+20689 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Sun Dec 09 18:41:50 2018
+
+10159 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Sun Dec 09 18:41:51 2018
+
+21476 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Sun Dec 09 18:41:52 2018
+
+15882 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Sun Dec 09 18:41:53 2018
+
+28603 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Sun Dec 09 18:41:53 2018
+
+05359 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Sun Dec 09 18:41:54 2018
+
+05741 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Sun Dec 09 18:41:55 2018
+
+07892 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Sun Dec 09 18:41:55 2018
+
+22252 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Sun Dec 09 18:42:02 2018
+
+00640 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Sun Dec 09 18:42:03 2018
+
+20412 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Sun Dec 09 18:42:05 2018
+
+31560 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Sun Dec 09 18:42:10 2018
+
+11141 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Sun Dec 09 18:42:11 2018
+
+24665 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Sun Dec 09 18:42:20 2018
+
+30297 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:43:52 2018
+
+03309 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:43:53 2018
+
+15324 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:43:54 2018
+
+13179 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:43:55 2018
+
+27147 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:43:56 2018
+
+11774 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:43:57 2018
+
+11120 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:43:58 2018
+
+05805 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:43:58 2018
+
+11241 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:43:59 2018
+
+08783 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:44:00 2018
+
+11261 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:44:02 2018
+
+29643 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:44:06 2018
+
+24226 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:44:08 2018
+
+19028 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:44:09 2018
+
+31792 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:44:13 2018
+
+10447 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:44:18 2018
+
+01930 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:44:38 2018
+
+21932 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:44:39 2018
+
+08821 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:44:40 2018
+
+23483 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:44:40 2018
+
+16759 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:44:41 2018
+
+19022 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:44:42 2018
+
+30099 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:44:42 2018
+
+01683 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:44:43 2018
+
+11929 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:44:44 2018
+
+11045 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:44:44 2018
+
+01684 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:44:45 2018
+
+13375 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:44:46 2018
+
+04552 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:44:46 2018
+
+04667 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:44:47 2018
+
+32056 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:44:52 2018
+
+31467 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Sun Dec 09 18:45:06 2018
+
+24736 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Mon Dec 10 14:36:10 2018
+
+08013 1:Helicopter 49 ORD-JFK 4hours and 49minutes Medium-haul flight Mon Dec 10 14:37:10 2018
+
+07352 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Mon Dec 10 14:43:01 2018
+
+09820 1:Helicopter 4 CLE-ORD 2hours and 4minutes Short-haul flight Mon Dec 10 14:43:39 2018
+
+20981 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Tue Dec 11 11:23:13 2018
+
+07621 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Tue Dec 11 11:23:14 2018
+
+00013 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Tue Dec 11 11:23:14 2018
+
+23936 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Tue Dec 11 11:23:15 2018
+
+30707 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Tue Dec 11 11:23:15 2018
+
+04392 1:Helicopter 5 CLE-ORD 2hours and 5minutes Short-haul flight Tue Dec 11 11:23:16 2018
+
+20440 1:Helicopter 4 CLE-ORD 2hours and 4minutes Short-haul flight Tue Dec 11 11:27:27 2018
+
+22327 1:Helicopter 49 ORD-JFK 4hours and 49minutes Medium-haul flight Tue Dec 11 11:30:05 2018
+
+12284 3:Midsize Jet 40 CLE-ORD 0hours and 40minutes Short-haul flight Tue Dec 11 11:30:06 2018
+
+20020 1:Helicopter 49 ORD-JFK 4hours and 49minutes Medium-haul flight Tue Dec 11 11:30:07 2018
+
+09317 3:Midsize Jet 40 CLE-ORD 0hours and 40minutes Short-haul flight Tue Dec 11 11:30:08 2018
+
+20471 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Tue Dec 11 11:30:09 2018
+
+16573 4:Heavy Jet 2 JFK-SFO 4hours and 2minutes Medium-haul flight Tue Dec 11 11:30:10 2018
+
+23082 4:Heavy Jet 2 JFK-SFO 4hours and 2minutes Medium-haul flight Tue Dec 11 11:30:10 2018
+
+14365 3:Midsize Jet 35 ORD-JFK 1hours and 35minutes Short-haul flight Tue Dec 11 11:30:11 2018
+
+05957 1:Helicopter 49 ORD-JFK 4hours and 49minutes Medium-haul flight Tue Dec 11 11:30:12 2018
+
+26551 1:Helicopter 49 ORD-JFK 4hours and 49minutes Medium-haul flight Tue Dec 11 11:30:13 2018
+
+25039 2:Turbo Prop 34 DEN-JFK 5hours and 34minutes Medium-haul flight Tue Dec 11 11:30:14 2018
+
+20912 2:Turbo Prop 32 ORD-JFK 2hours and 32minutes Short-haul flight Tue Dec 11 11:30:15 2018
+
